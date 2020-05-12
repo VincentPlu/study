@@ -61,6 +61,9 @@ public class array {
         return a;
     }
 
+    /**
+     * 矩阵乘法
+     */
     private static void jzchengfa(){
         int [][] a = new int[][]{{1,2},{3,4}};
         int [][] b = new int[][]{{5,6},{7,8}};
